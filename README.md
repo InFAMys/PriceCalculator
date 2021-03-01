@@ -1,6 +1,6 @@
 # Price Calculator
 
-Calculate Price With Tax and others
+Calculate Prices With Tax and others
 
 ## Prerequisites
 * React JS (create-react-app)
